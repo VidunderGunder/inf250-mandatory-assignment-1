@@ -17,7 +17,7 @@ The main script performs the vizualization with both OpenCV's implementation and
 ## Comments:
 
 - File based on code template from Yngve Mardal Moe
-- Removed redundant theshold function, as it is only needed if we don't want to use Otsu thresholding
+- Removed redundant threshold function, as it is only needed if we don't want to use Otsu thresholding
 - Auto-formatted by black with a custom line length  
   To enable in VSCode, add this to your settings.json:
 
