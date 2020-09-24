@@ -22,6 +22,7 @@ The main script performs the vizualization with both OpenCV's implementation and
   To enable in VSCode, add this to your settings.json:
 
   ```JSON
+  "editor.formatOnSave": true,
   "python.formatting.provider": "black",
   "python.formatting.blackArgs": ["-l", "79"],
   ```
